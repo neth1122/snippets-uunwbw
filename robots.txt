@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neth1122.github.io/snippets-uunwbw/sitemap.xml
